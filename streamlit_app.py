@@ -43,8 +43,8 @@ st.markdown(
 """
 Technologies & Methodologies that I will focus on this year :
 - Python
-- AWS Solutions Architect Associcate
-- Certified Kubernetes Administrator
+- AWS (Solutions Architect Associcate)
+- Kubernetes (CKA)
 - SRE fundamentals
 - Artificial Intelligence
 """

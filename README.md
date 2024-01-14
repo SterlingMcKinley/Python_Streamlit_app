@@ -11,4 +11,4 @@ This application utilized:
    
 --------------------
 
-![streamlit_python_app_image](https://github.com/SterlingMcKinley/Python_Streamlit_app/assets/91057035/3ffa2280-fc71-47ae-9481-924fec08e75b)
+![streamlit_python_app_image](https://github.com/SterlingMcKinley/Python_Streamlit_app/assets/91057035/4892e685-e074-42d2-a468-cbf9f695288d)

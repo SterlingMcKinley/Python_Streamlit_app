@@ -8,3 +8,7 @@ This application utilized:
  * Streamlit module/package
  * Lottie animation
  * json
+   
+--------------------
+
+![streamlit_python_app_image](https://github.com/SterlingMcKinley/Python_Streamlit_app/assets/91057035/3ffa2280-fc71-47ae-9481-924fec08e75b)
